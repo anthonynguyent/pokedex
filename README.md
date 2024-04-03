@@ -2,6 +2,8 @@
 
 This simple Pokedex is a React-based web application designed to provide users with a fun and interactive experience related to the Pokemon universe. It leverages React's features such as useState, useEffect, routing, and conditional rendering to display information about various Pokemon and enable users to search for specific ones.
 
+![ezgif-6-c2dc326554](https://github.com/anthonynguyent/pokedex/assets/54492419/af888962-8145-441e-b8e1-e8b0a607ed23)
+
 ## Features
 
 -   **Pokedex:** Displays a list of all Pokemon fetched from the PokeAPI, including their names and sprites.
